@@ -1,0 +1,18 @@
+---
+object: set
+id: 907dbba9-bb5e-4d07-b681-ab8641cb1ada
+code: pinv
+name: Invasion Promos
+uri: https://api.scryfall.com/sets/907dbba9-bb5e-4d07-b681-ab8641cb1ada
+scryfall_uri: https://scryfall.com/sets/pinv
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apinv&unique=prints
+released_at: '2000-10-02'
+set_type: promo
+card_count: 1
+parent_set_code: inv
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: inv
+block: Invasion
+icon_svg_uri: https://svgs.scryfall.io/sets/inv.svg?1694404800
